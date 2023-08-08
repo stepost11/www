@@ -1,3 +1,17 @@
-body {
-	color: brown;
+.shapka {
+	color: rgb(0, 119, 255);
+}
+.neshapka {
+	color: chocolate;
+}
+
+#text-in-p {
+	color: blue;
+}
+
+details p {
+	color: darkgreen;
+}
+.huh {
+	color: blue;
 }
